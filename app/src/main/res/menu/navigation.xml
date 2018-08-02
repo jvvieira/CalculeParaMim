@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_combustivel"
+        android:icon="@drawable/ic_calculate"
+        android:title="@string/title_combustivel" />
+
+    <item
+        android:id="@+id/navigation_pack"
+        android:icon="@drawable/ic_calculate"
+        android:title="@string/title_pack" />
+
+    <item
+        android:id="@+id/navigation_fardo"
+        android:icon="@drawable/ic_calculate"
+        android:title="@string/title_fardo" />
+
+</menu>
